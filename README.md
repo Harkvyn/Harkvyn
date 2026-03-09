@@ -9,7 +9,7 @@
 ### 🌐 Connect with me
 
 <div align="center">
-  <a href="https://github.com/username">
+  <a href="https://github.com/Harkvyn">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://tryhackme.com/p/username">
@@ -35,6 +35,6 @@
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=Harkvyn&show_icons=true&theme=tokyonight)
 
 </div>
