@@ -1,40 +1,57 @@
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+<h1 align="center">Hi 👋 I'm Harkvyn</h1>
 
-💻 Cybersecurity Enthusiast  
-🔐 Interested in Cryptography & Exploitation  
-🚩 CTF Player  
+<p align="center">
+Cybersecurity Learner | CTF Player | Future Fraud Investigator
+</p>
 
 ---
 
-### 🌐 Connect with me
+## 👨‍💻 About Me
+
+- 🎓 Informatics student
+- 🔐 Interested in Cybersecurity
+- 🚩 CTF Player
+- 🧠 Currently learning Digital Forensic
+
+---
+
+## 🛠 Languages & Tools
 
 <div align="center">
-  <a href="https://github.com/Harkvyn">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://tryhackme.com/p/username">
-    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme">
-  </a>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
+
 </div>
 
 ---
 
-### 🛠 Tools & Languages
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harkvyn&show_icons=true&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=Harkvyn&show_icons=true&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=Harkvyn&theme=tokyonight"/>
 
-</div>
+</p>
+
+---
+
+## 🚀 Goals
+
+- Become a Fraud Investigator Expert
+- Write CTF writeups
