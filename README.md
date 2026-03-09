@@ -1,136 +1,40 @@
-# 🚀 Project Name
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
-> Short description of your project in **1 sentence**.
-
-![GitHub stars](https://img.shields.io/github/stars/username/repo)
-![GitHub forks](https://img.shields.io/github/forks/username/repo)
-![License](https://img.shields.io/github/license/username/repo)
+💻 Cybersecurity Enthusiast  
+🔐 Interested in Cryptography & Exploitation  
+🚩 CTF Player  
 
 ---
 
-## 📖 About
+### 🌐 Connect with me
 
-Explain **what this project is** and **why it exists**.
-
-Example:
-
-This project implements a custom **Pseudo Random Number Generator (PRNG)** designed for security research and cryptographic experiments.
-
-Key ideas:
-- Lightweight
-- Deterministic
-- Easy to integrate into other projects
+<div align="center">
+  <a href="https://github.com/username">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://tryhackme.com/p/username">
+    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme">
+  </a>
+</div>
 
 ---
 
-## ✨ Features
+### 🛠 Tools & Languages
 
-- ⚡ Fast and lightweight
-- 🔐 Deterministic randomness
-- 🧪 Good for experimentation
-- 📦 Easy to integrate
+<div align="center">
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 
-## 🛠 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/username/repo.git
-cd repo
-```
-
-Install dependencies (if any)
-
-```bash
-pip install -r requirements.txt
-```
+</div>
 
 ---
 
-## 🚀 Usage
+### 📊 GitHub Stats
 
-Example usage:
+<div align="center">
 
-```python
-from prng import generate_random
+![stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight)
 
-print(generate_random())
-```
-
-Output:
-
-```
-834729174
-```
-
----
-
-## 📂 Project Structure
-
-```
-repo/
-│
-├── src/        # main source code
-├── tests/      # testing files
-├── docs/       # documentation
-└── README.md
-```
-
----
-
-## 🧠 How It Works
-
-Brief explanation of the algorithm / concept.
-
-Example:
-
-The PRNG works by combining:
-
-- seed value
-- modular arithmetic
-- bitwise operations
-
-This produces deterministic but complex output sequences.
-
----
-
-## 📊 Example Output
-
-| Seed | Output |
-|-----|------|
-| 123 | 918273 |
-| 456 | 672819 |
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-Steps:
-
-1. Fork this repo
-2. Create your feature branch
-3. Commit your changes
-4. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👤 Author
-
-**Your Name**
-
-- GitHub: https://github.com/username
-- Email: your@email.com
-
----
-
-⭐ If you like this project, give it a star!
+</div>
